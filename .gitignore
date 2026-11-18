@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+secrets.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python build and cache files
+__pycache__/
+
+# Node.js dependencies
+node_modules/
+
+# Distribution files
+dist/
