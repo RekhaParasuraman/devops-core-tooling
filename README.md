@@ -10,3 +10,7 @@ This project demonstrates Git, GitHub, and DevOps fundamentals.
 - Jenkins
 - Docker
 - Kubernetes
+
+## Health Monitoring
+
+The project supports application health checks through the /health endpoint.
